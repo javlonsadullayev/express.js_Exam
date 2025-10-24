@@ -1,6 +1,6 @@
 const { Router } = require("express");
 const authRouter = require("./auth.routes");
-const postRouter = require("./post.router");
+const postRouter = require("./post.routes");
 
 const mainRouter = Router();
 
