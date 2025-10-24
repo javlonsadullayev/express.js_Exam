@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "username": "Javlon",
+        "email": "javlonsadullev@gmail.com",
+        "password": "javlon1234"
+    },
+    {
+        "id": 2,
+        "username": "Murod",
+        "email": "murod@example.com",
+        "password": "murod1234"
+    },
+    {
+        "id": 3,
+        "username": "Dilmurod",
+        "email": "dilmurod@example.com",
+        "password": "dilmurod1234"
+    },
+    {
+        "id": 4,
+        "username": "Aziz",
+        "email": "aziz@example.com",
+        "password": "aziz1234"
+    },
+    {
+        "id": 5,
+        "username": "Sardor",
+        "email": "sardor@example.com",
+        "password": "sardor1234"
+    },
+    {
+        "id": 6,
+        "username": "Nilufar",
+        "email": "nilufar@example.com",
+        "password": "nilufar1234"
+    },
+    {
+        "id": 7,
+        "username": "Gulnora",
+        "email": "gulnora@example.com",
+        "password": "gulnora1234"
+    },
+    {
+        "id": 8,
+        "username": "Kamron",
+        "email": "kamron@example.com",
+        "password": "kamron1234"
+    },
+    {
+        "id": 9,
+        "username": "Farhod",
+        "email": "farhod@example.com",
+        "password": "farhod1234"
+    },
+    {
+        "id": 10,
+        "username": "Dilshod",
+        "email": "dilshod@example.com",
+        "password": "dilshod1234"
+    },
+    {
+        "id": 11,
+        "username": "Kamol",
+        "email": "kamol1234@gmail.com",
+        "password": "kamol1234"
+    }
+]

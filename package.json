@@ -1,0 +1,17 @@
+{
+  "name": "21.10.2025",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node  src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "shokhijakhon-error-handler": "^1.1.0"
+  }
+}
